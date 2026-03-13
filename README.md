@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/jadhavkrushna">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Exploring+AI+%26+LLMs+%F0%9F%A4%96;Building+Real-Time+Systems+%E2%9A%A1;Microservices+%26+Blockchain+Learner+%F0%9F%94%97;RAG+%7C+MCP+%7C+GenAI+Explorer+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Full-Stack+Developer+%F0%9F%92%BB;Built+Wanderlust+%E2%80%93+Travel+Marketplace+%F0%9F%8C%8D;AI-Powered+Legal+Doc+Analyzer+%F0%9F%A4%96;Go+%2B+PostgreSQL+Backend+Developer+%E2%9A%A1;Next.js+%7C+React+%7C+Node.js+Builder+%F0%9F%9A%80;GenAI+%26+LLM+Explorer+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -41,22 +41,22 @@
 
 ```yaml
 name: Krushna Jadhav
-located_in: India 🇮🇳
+located_in: India
 education: BCA (Second Year)
 role: Full-Stack Developer
 
-currently_learning:
-  - "🧠 GenAI, RAG & LLMs"
-  - "⚡ Real-Time Systems with Socket.IO"
-  - "🏗️ Microservices Architecture"
-  - "🐳 DevOps & Docker"
-  - "🔗 Blockchain Fundamentals"
+highlights:
+  - "Built a full-stack Airbnb-style travel
+     marketplace with auth, maps & cloud storage"
+  - "Developed an AI legal document analyzer
+     using Google Gemini API & Next.js"
+  - "Created a stock rewards backend in Go
+     with PostgreSQL & double-entry ledger"
+  - "Built an organic food e-commerce site
+     with vanilla JS & Bootstrap 5"
 
-fields_of_interest:
-  - "Full-Stack Web Development"
-  - "Artificial Intelligence"
-  - "Real-Time Applications"
-  - "MCP Servers & GenAI"
+languages: [JavaScript, Go, Java, HTML, CSS]
+databases: [MongoDB, PostgreSQL]
 ```
 
 </td>
@@ -72,13 +72,15 @@ fields_of_interest:
 
 🎓 **Second Year BCA Student**
 
-💻 **Full-Stack Developer**
+💻 **Full-Stack Developer** — Node.js, React, Go
 
-🚀 **AI & Real-Time Systems Enthusiast**
+🌍 **Built Wanderlust** — Travel listing platform
 
-🧠 **RAG | MCP | GenAI Explorer**
+🤖 **Built Demystify** — AI legal doc analyzer
 
-⚡ **Building the future, one commit at a time**
+📈 **Built Stocky** — Go + PostgreSQL backend
+
+🛒 **Built Organify** — E-commerce web app
 
 <br/>
 
@@ -93,6 +95,43 @@ fields_of_interest:
 <!-- ═══════════════════ SPARKLE DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+<div align="center">
+
+## 🚀 Featured Projects
+
+<br/>
+
+<a href="https://github.com/jadhavkrushna/Airbnb_project">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jadhavkrushna&repo=Airbnb_project&theme=aura&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="Wanderlust" />
+</a>
+<a href="https://github.com/jadhavkrushna/demystify-legal-doc">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jadhavkrushna&repo=demystify-legal-doc&theme=aura&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="Demystify Legal Doc" />
+</a>
+<a href="https://github.com/jadhavkrushna/stocky">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jadhavkrushna&repo=stocky&theme=aura&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="Stocky" />
+</a>
+<a href="https://github.com/jadhavkrushna/Organify-web">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jadhavkrushna&repo=Organify-web&theme=aura&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="Organify" />
+</a>
+
+</div>
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Wanderlust](https://github.com/jadhavkrushna/Airbnb_project)** | Full-stack travel marketplace — listings, reviews, auth, maps, cloud images | Node.js, Express, MongoDB, Passport.js, Mapbox, Cloudinary |
+| **[Demystify Legal Doc](https://github.com/jadhavkrushna/demystify-legal-doc)** | AI-powered legal document simplifier — clause analysis, risk detection, Q&A | Next.js, React, Google Gemini API |
+| **[Stocky](https://github.com/jadhavkrushna/stocky)** | Stock rewards backend — double-entry ledger, portfolio tracking, cron jobs | Go, Gin, PostgreSQL, REST API |
+| **[Organify](https://github.com/jadhavkrushna/Organify-web)** | Organic food e-commerce — cart, wishlist, filters, responsive UI | HTML5, CSS3, JavaScript, Bootstrap 5 |
+| **[Movie Seat Booking](https://github.com/jadhavkrushna/movie_seat_booking)** | Interactive seat selection & booking interface | HTML, CSS, JavaScript |
+
+</div>
+
+<!-- ═══════════════════ SPARKLE DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ═══════════════════ CURRENTLY LEARNING ═══════════════════ -->
 <div align="center">
 
@@ -100,13 +139,13 @@ fields_of_interest:
 
 <br/>
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack%20Dev-Learning-7c3aed?style=for-the-badge&labelColor=1a1a2e&logo=stackblitz&logoColor=white)
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Dev-Building-7c3aed?style=for-the-badge&labelColor=1a1a2e&logo=stackblitz&logoColor=white)
 ![DSA Java](https://img.shields.io/badge/DSA%20with%20Java-Practicing-7c3aed?style=for-the-badge&labelColor=1a1a2e&logo=leetcode&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Exploring-a855f7?style=for-the-badge&labelColor=1a1a2e&logo=kubernetes&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps%20%26%20Docker-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e&logo=docker&logoColor=white)
+![Go Backend](https://img.shields.io/badge/Go%20Backend-Building-a855f7?style=for-the-badge&labelColor=1a1a2e&logo=go&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI%20%26%20LLMs-Exploring-a855f7?style=for-the-badge&labelColor=1a1a2e&logo=openai&logoColor=white)
 <br/>
-![Blockchain](https://img.shields.io/badge/Blockchain-Fundamentals-c026d3?style=for-the-badge&labelColor=1a1a2e&logo=ethereum&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI%20%26%20LLMs-Exploring-c026d3?style=for-the-badge&labelColor=1a1a2e&logo=openai&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Exploring-c026d3?style=for-the-badge&labelColor=1a1a2e&logo=kubernetes&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps%20%26%20Docker-Learning-c026d3?style=for-the-badge&labelColor=1a1a2e&logo=docker&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Learning-e879f9?style=for-the-badge&labelColor=1a1a2e&logo=databricks&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP%20Servers-Exploring-e879f9?style=for-the-badge&labelColor=1a1a2e&logo=fastapi&logoColor=white)
 ![SocketIO](https://img.shields.io/badge/Real--Time%20Socket.IO-Building-7c3aed?style=for-the-badge&labelColor=1a1a2e&logo=socketdotio&logoColor=white)
@@ -134,6 +173,9 @@ fields_of_interest:
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
 </td>
 </tr>
@@ -145,7 +187,10 @@ fields_of_interest:
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
@@ -156,6 +201,19 @@ fields_of_interest:
 <td>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<h4>🤖 AI & Cloud</h4>
+</td>
+<td>
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-%23000000.svg?style=for-the-badge&logo=mapbox&logoColor=white)
 
 </td>
 </tr>
@@ -165,7 +223,19 @@ fields_of_interest:
 </td>
 <td>
 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<h4>🔐 Auth</h4>
+</td>
+<td>
+
+![Passport.js](https://img.shields.io/badge/Passport.js-%2334E27A.svg?style=for-the-badge&logo=passport&logoColor=white)
 
 </td>
 </tr>
@@ -178,6 +248,7 @@ fields_of_interest:
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
