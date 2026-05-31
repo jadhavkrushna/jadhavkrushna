@@ -26,7 +26,7 @@
 
 > 💜 *"Code is poetry written in logic — and I'm just getting started."*
 
-🎓 **Second Year BCA Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
+🎓 **final Year engineering Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
 
 ---
 
