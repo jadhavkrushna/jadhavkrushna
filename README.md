@@ -19,17 +19,13 @@
 ---
 
 <div align="center">
-
+ 
 ## 👋 Hi, I'm Krushna Jadhav!
-
+💜 "Code is poetry written in logic — and I'm just getting started." </br>
+🎓 Final Year Engineering Student &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🚀 AI & Real-Time Systems Enthusiast
 </div>
 
-> 💜 *"Code is poetry written in logic — and I'm just getting started."*
-
-🎓 **final Year engineering Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
-
 ---
-
 <div align="center">
 
 ## 🧠 Currently Learning & Exploring
@@ -39,6 +35,7 @@
 <!-- shields.io badges - 100% reliable -->
 ![Full-Stack](https://img.shields.io/badge/Full--Stack%20Dev-Learning-7c3aed?style=for-the-badge&labelColor=1a1a2e)
 ![DSA Java](https://img.shields.io/badge/DSA%20with%20Java-Practicing-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![FastAPI](https://img.shields.io/badge/FastAPI-Building-a855f7?style=for-the-badge&labelColor=1a1a2e)
 ![Microservices](https://img.shields.io/badge/Microservices-Exploring-a855f7?style=for-the-badge&labelColor=1a1a2e)
 ![DevOps](https://img.shields.io/badge/DevOps%20%26%20Docker-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Fundamentals-c026d3?style=for-the-badge&labelColor=1a1a2e)
@@ -55,7 +52,9 @@
 
 ## 🛠️ Tech Stack & Tools
 
- ## 💻 Programming Languages
+<br/>
+
+### 💻 Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -80,8 +79,8 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
- </p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
 ### ☁️ Cloud Native & CI/CD
 <p align="center">
@@ -123,68 +122,97 @@
   <img src="https://img.shields.io/badge/Sentence%20Transformers-Embeddings-blue?style=for-the-badge" />
 </p>
 
-
 ### 🛠️ Tools & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-   <img src="https://img.shields.io/badge/Antigravity-AI%20Coding-7c3aed?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-AI%20Coding-7c3aed?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-    <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img src="https://img.shields.io/badge/Hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" />
   <img src="https://img.shields.io/badge/VPS-Hosting-black?style=for-the-badge&logo=serverfault&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white" />
 </p>
-<div align="center">
-
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=jadhavkrushna&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=jadhavkrushna&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavkrushna&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/jadhavkrushna/mediloon">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jadhavkrushna&repo=mediloon&theme=aura&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" width="48%" />
+  </a>
+  <a href="https://github.com/jadhavkrushna/ai-attendance-system">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jadhavkrushna&repo=ai-attendance-system&theme=aura&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/jadhavkrushna/Airbnb_project">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jadhavkrushna&repo=Airbnb_project&theme=aura&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" width="48%" />
+  </a>
+  <a href="https://github.com/jadhavkrushna/Checkora">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jadhavkrushna&repo=Checkora&theme=aura&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/jadhavkrushna/my-portfolio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=jadhavkrushna&repo=my-portfolio&theme=aura&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" width="48%" />
+  </a>
+  <a href="https://github.com/atharva038/Zenith-26">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=atharva038&repo=Zenith-26&theme=aura&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" width="48%" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+ 
 ## 📈 Contribution Graph
 
-<br/>
-
-<!-- activity graph - vercel hosted, reliable -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadhavkrushna&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=8" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jadhavkrushna&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=8"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
 
 ---
-
-<div align="center">
 
 ## 🐍 Contribution Snake
 
-<br/>
-
-<!-- Snake - will work after workflow runs successfully -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadhavkrushna/jadhavkrushna/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jadhavkrushna/jadhavkrushna/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jadhavkrushna/jadhavkrushna/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jadhavkrushna/jadhavkrushna/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jadhavkrushna/jadhavkrushna/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/jadhavkrushna/jadhavkrushna/output/github-snake-dark.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 <div align="center">
 
@@ -193,7 +221,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-jadhav-4252b12a0/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/KrishnaJad22031)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KrishnaJad22031)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23c026d3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/jadhavkrushna)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadhavkrishna25751@gmail.com)
 
